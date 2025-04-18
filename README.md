@@ -18,5 +18,5 @@ cd frontend && npm install && npm run dev
 ## Folder Structure
 ```
 backend/     # Java, Spring Boot
-frontend/    # TypeScript
+frontend/    # TypeScript, React
 ```
